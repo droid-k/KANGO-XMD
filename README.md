@@ -1,7 +1,7 @@
 
 
 <img align="center" height="auto"
-src="https://i.imgur.com/GVW7aoD.jpeg">
+src="https://i.imgur.com/1DkLGVk.jpeg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+A+N+G+O+X+M+D+▇)](https://git.io/typing-svg)
 <br>
@@ -37,7 +37,7 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 
 1. Fork and star this repo first
 
-Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
+Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
   <br>
     <p align="left">
@@ -47,7 +47,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
-> To deploy on render , generate your session ID from the link below:
+> Generate your session ID from the link below:
 <p align="left">
   <a href="https://kango-ef1f620b32d8.herokuapp.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
@@ -67,6 +67,9 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/_RsRny?referralCode=wvGQ0H)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
@@ -82,7 +85,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search Queen Adiza, and connect.
+* Search KANGO-XMD, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -193,6 +196,13 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 ```
 </details>
+
+## Credits
+
+- [Hector](https://github.com/OfficialKango)
+- [Baileys](https://github.com/WhiskeySockets)
+- [Cypher-X](https://github.com/Dark-Xploit) 
+- [Matrix](https://github.com/Matri199)
 
 ##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
